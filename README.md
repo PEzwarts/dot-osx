@@ -2,6 +2,6 @@
 
 # Personal dotfiles. OSX edition.
 
+* Alacritty
 * Neovim
-* Kitty
 * Fish
