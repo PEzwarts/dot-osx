@@ -19,7 +19,7 @@ rustup install stable
 brew install fish eza dysk fastfetch fd ripgrep fzf ranger
 
 # Wallpapers
-git clone https://github.com/elementary/wallpapers ~/Downloads/wallpapers/
+git clone https://github.com/PEzwarts/wall ~/Desktop/wall/
 
 # Applications
 brew install libreoffice
