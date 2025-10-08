@@ -1,19 +1,15 @@
+git clone https://github.com/PEzwarts/dot
+
 rm -r ~/.config/*
 
 # Neovim
-cp -r ./nvim/ ~/.config/nvim/
-
-# Zed
-# cp -r ./zed/ ~/.config/
+cp -r ./dot/nvim/ ~/.config/nvim/
 
 # Fish
-cp -r ./fish/ ~/.config/fish/
-
-# Kitty
-# cp -r ./kitty/ ~/.config/kitty/
+cp -r ./dot/fish/ ~/.config/fish/
 
 # Alacritty
-cp -r ./alacritty/ ~/.config/alacritty/
+cp -r ./dot/alacritty/ ~/.config/alacritty/
 
 defaults write com.apple.dock persistent-others -array
 defaults write com.apple.dock persistent-apps -array
