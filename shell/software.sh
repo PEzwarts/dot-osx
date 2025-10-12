@@ -1,3 +1,3 @@
-for pkg in $(cat ./software.txt); do
+for pkg in $(cat ../dot/software.txt); do
   NONINTERACTIVE=1 brew install $pkg
 done
