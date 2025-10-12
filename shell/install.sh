@@ -4,5 +4,5 @@ fi
 
 git clone https://github.com/PEzwarts/dot
 
-./shell/software.sh
-./shell/update.sh
+./software.sh
+./update.sh
