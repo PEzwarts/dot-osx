@@ -1,5 +1,3 @@
-git clone https://github.com/PEzwarts/dot
-
 rm -r ~/.config/*
 
 # Neovim
